@@ -2,3 +2,5 @@
 
 # Just adding some things for the commit
 
+#This was now done diretctly from GitHub
+
